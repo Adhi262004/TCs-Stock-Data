@@ -62,7 +62,7 @@ Prediction & Visualization: The models are used to make predictions on unseen te
 How to Run the Project
 Clone the Repository:
 
-git clone [https://github.com/your-username/tcs-stock-prediction.git](https://github.com/your-username/tcs-stock-prediction.git)
+git clone [https://github.com/(https://github.com/Adhi262004)/tcs-stock-prediction.git](https://github.com/[your-username](https://github.com/Adhi262004)/tcs-stock-prediction.git)
 cd tcs-stock-prediction
 
 Install Dependencies: Make sure you have Python installed. Then, install the required libraries using pip:

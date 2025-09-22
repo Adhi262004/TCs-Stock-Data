@@ -1,7 +1,5 @@
 TCS Stock Price Prediction using Machine Learning
-
-Project Overview:
-
+Project Overview
 This project focuses on predicting the future stock prices of Tata Consultancy Services (TCS) using machine learning models. The primary goal is to analyze historical stock data, identify trends and patterns, and build predictive models to forecast future closing prices.
 
 Two distinct machine learning approaches are explored:
@@ -62,7 +60,7 @@ Prediction & Visualization: The models are used to make predictions on unseen te
 How to Run the Project
 Clone the Repository:
 
-git clone [https://github.com/(https://github.com/Adhi262004)/tcs-stock-prediction.git](https://github.com/[your-username](https://github.com/Adhi262004)/tcs-stock-prediction.git)
+git clone [https://github.com/Adhi262004/tcs-stock-prediction.git](https://github.com/Adhi262004/tcs-stock-prediction.git)
 cd tcs-stock-prediction
 
 Install Dependencies: Make sure you have Python installed. Then, install the required libraries using pip:
@@ -76,7 +74,7 @@ The LSTM model is expected to perform significantly better than the Linear Regre
 
 The MinMaxScaler is crucial for deep learning models like LSTM to ensure that all features are on a similar scale, which helps the model train more effectively.
 
-Visualization is key to understanding model performance and identifying where predictions deviate from the actual stock prices.
+Visualization is key to understanding model performance and identifying where predictions deviate from the stock prices.
 
 Future Scope
 Hyperparameter Tuning: Experiment with different LSTM layers, neuron counts, and epochs to optimize model performance.
